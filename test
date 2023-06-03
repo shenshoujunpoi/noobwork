@@ -1,0 +1,36 @@
+ <body>
+    <p>Just for test</p>
+    <div style="
+     background-color: #66ccff;
+     text-align: center;
+     padding: 50px 
+    ">
+      <img src='https://tse4-mm.cn.bing.net/th/id/OIP-C.Ihdoo8B_ZiXXp3nwb45k0QHaMo?pid=ImgDet&rs=1' alt='aaa' width="100px" height="200px" ></img>
+    </div>
+    <div style="
+     font-size: 20px;
+     max-width: 500px;
+     max-height: 200px;
+     padding: 20px;
+     line-height: 0.9;
+     border: 10px solid #77ccaa;
+     margin: 20px auto;
+    ">
+      <p>firetruck</p>
+      <p>firetruck</p>
+      <p style="font-size: 25px;
+	  text-align: center;">for test</p>
+      <p>firetruck</p>
+      <p>firetruck</p>
+    </div>
+    <div style="
+      background-color: #66ccff;
+      text-align: center;
+      padding: 50px;
+      font-size: 80px; 
+     ">
+      <p>Gundam</p>
+      <a href="https://encycolorpedia.cn/66ccff">link</a>
+     </div>
+  </body>
+</html>
